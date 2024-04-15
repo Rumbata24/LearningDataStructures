@@ -1,3 +1,12 @@
+// Array in js => []
+
+// Insertion order is kept
+// Element access via index
+// Iterable (= you can use the for-of loop)
+// Size (length) adjusts dynamically
+// Duplicate values are allowed
+// Deletion and finding elements can require "extra work"
+
 const names = ["Max", "Manu", "Julie", "Max"];
 
 // Index starts at zero
